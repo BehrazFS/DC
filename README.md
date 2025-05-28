@@ -45,13 +45,13 @@ Designed for error-free inputs (optional bonus: fault tolerance).
 Win highlighting: LEDs blink when a winning line is formed (optional bonus).
 
 # 🌟 Optional Bonus Features 
-✅ Single-button cell selection using multicolor LEDs
+Single-button cell selection using multicolor LEDs
 
-✅ Winning line LED blinking
+Winning line LED blinking
 
-⚠️ Fault detection for invalid moves (e.g., selecting already lit cell)
+Fault detection for invalid moves (e.g., selecting already lit cell)
 
-⚠️ Tie detection and LED indication
+Tie detection and LED indication
 
 # 🧪 Hardware Platform
 Implemented and simulated in Proteus
