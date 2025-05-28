@@ -56,6 +56,12 @@ Tie detection and LED indication
 # 🧪 Hardware Platform
 Implemented and simulated in Proteus
 
+# Pictures:
+![Diagram](1.jpg)
+![Diagram](2.jpg)
+![Diagram](3.jpg)
+![Diagram](4.jpg)
+
 # Team members: 
 
 https://github.com/BehrazFS <br>
