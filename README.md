@@ -1,4 +1,4 @@
-# Rotating-Tic-Tac-Toe–Digital-Circuits-Final-Project
+# Rotating-Tic-Tac-Toe-Digital-Circuits-Final-Project
 This repository contains the hardware implementation of a modified version of Tic-Tac-Toe with all of the optional bonus features built and simulated using Proteus, developed as the final project for the Digital Circuits course at the University of Guilan.
 
 # 🧠 Game Description
